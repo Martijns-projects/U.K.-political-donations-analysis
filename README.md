@@ -15,5 +15,4 @@ Dependencies list:
 |   Matplotlib      |   3.9.2   |   Open Source, PSF-like   |
 |   Scikit-Learn    |   1.0.2   |   Open Source, BSD    |
 |   gender-guesser  |   0.4.0   |   GPLv3  |
-
-
+|   XGBoost         |   2.1.3   |   Apache License 2.0  |
