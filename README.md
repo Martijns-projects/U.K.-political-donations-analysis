@@ -14,6 +14,6 @@ Dependencies list:
 |   Pandas          |   2.2.3   |   Open Source, BSD    |
 |   Matplotlib      |   3.9.2   |   Open Source, PSF-like   |
 |   Scikit-Learn    |   1.0.2   |   Open Source, BSD    |
-|   Keras           |   3.6.0   |   Apache License 2.0  |
-|   Tensorflow      |   2.14.0  |   Apache License 2.0  |
+|   gender-guesser  |   0.4.0   |   GPLv3  |
+
 
